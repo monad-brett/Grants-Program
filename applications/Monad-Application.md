@@ -1,13 +1,15 @@
 
 # Mintbase Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines. Blockquote sections starting with a `>` (such as this one) can be removed.
 >
 > See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
 - **Project Name:** Name of your project (e.g. DuoSwap Module)
+- Monad NFT Automation
 - **Team Name:** Legal name of your team (e.g. Duo)
+- Monad.Social
 - **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
+- monadsocial.near
 - **[Level](../README.md#level_slider-levels):** 1, 2 or 3
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
@@ -26,12 +28,22 @@ Please provide the following:
 - A brief description of your project.
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
 - An indication of why your team is interested in creating this project.
+- Monad already received and completed a $75k NEAR Grant to build out all the necessary infrastructure and to launch the World's First "dance to earn app" we call the Virtual Dance Floor. We use the gyro and acclerometer in mobile devices to translate dancing movements into pulsing avatars that earn Monad Tokens. Phase II of this roadmap is integrate Mintbase in order to expand and improve the UX for both the Creators and Fans. We will implement the ability of Artist/Creators to directly upload their NFT art that will be used for sale of NFTs that purchased by fans as tips for music performance and POAPs.
+- In addition we want all these NFTs to be searchable and discoverable by regular web search. We will also impelment the ability for Fans earning Monad Tokens via the Virtual Dance Floor, and other user behaviours, to be able to spend these Monad Tokens to purchase NFTs.
+- The goal here is to create an economic ecosystem here that drivers customer acquitistion and retention behaviour for the masses - not to create speculative assets.
+- In order to accomplish this, we need to make the UX, especially for Creators, as simple and intuitive as possible. In our discussions wiht Mintbase executives, we believe in aggregate your solutions are the best option for us to achieve these goals.
+- 
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
+- We have a complete, fully functioning MVP with customers and generating revenue now. The UI/UX for users both on the front-end side and for Creators to upload art is already completed and live. We can provide access to any Mintbase people since the content is behind a paywall.
+- Fan UX, Purchase of NFTs as tips, POAPs - https://monad.social/circle/djsneak/
+- POAP Upload UI: https://monad.social/circle/djsneak/admin/nfts/
+- NFTs for tipping: https://monad.social/circle/djsneak/admin/tipnfts/
+- 
 - Data models / API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
@@ -44,9 +56,13 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+- We've discussed our goals with Nate and Paul and identified a plethora of both "now" integrations that can be used plus "coming soon" features that sync very well with our business goals.
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+- We have 2 target audiences - Creators and their Fans. We are working with one of the 3 Major Record labels amd other artists to help them migrate their 30 million YouTube subscribers to Monad.
 - What need(s) does your project meet?
+- We need to create simple, elegant solutions to lower the barriers for Creators to supply art that can be monetized through tokenization and digital asset sales.  Then to in turn create entertaining Fan Experiences that will encourage usage and therefore be an excellent customer retention tool. 
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
+- Sweatcoin has done something similar of course with the "exercise to earn" aspect of what we're doing. We are unaware of other Web3 versions of Twitch for Music which is what we are buidling out.
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
 
