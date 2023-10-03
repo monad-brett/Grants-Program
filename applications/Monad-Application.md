@@ -104,13 +104,17 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
+- Main Account: https://github.com/monadsocial
+- Project 1: https://github.com/monadsocial/NEAR-NFT
+- Project 2: https://github.com/monadsocial/Near-Tipping
+- Project 3: https://github.com/monadsocial/MonadFT
+ 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/bretthawkinsjr/
+- https://www.linkedin.com/in/gregrjohnson/
+- https://www.linkedin.com/in/jiandong-wei-3a602158/
+- https://www.linkedin.com/in/anvarbagi/
 
 ## Development Status :open_book:
 
@@ -121,6 +125,8 @@ If you've already started implementing your project or it is part of a larger re
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
 - previous interface iterations, such as mock-ups and wireframes.
+- We've had numerous discussions with Paul Kuveke, Nate Geier, Agathe and other at Mintbase to confirm that Mintbase is the best solution/solutions for the next phases of our Roadmap post the initial NEAR Grant and completion of all milestones. Nate in particular helped tremendously in understand how we can best utilitize both current and upcoming feature sets to achieve our goals. We're ready to go! 
+- We have a fully functioning MVP up and live now at https://monad.social/ We have issued thousands of POAPs, hundreds of NFTs and Badges, 100+ Creators, 2k+ Subs and $250k in revenues.
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -183,9 +189,11 @@ Please include here
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+Mintbase directly as introduced by NEAR.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - Work you have already done.
 - If there are any other teams who have already contributed (financially) to the project.
 - Previous grants you may have applied for.
+- We have already received grants from NEAR $75k, Google Cloud for Startups $200k+ and Celo Camp $20k
