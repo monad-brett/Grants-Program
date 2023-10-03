@@ -127,6 +127,7 @@ If you've already started implementing your project or it is part of a larger re
 - previous interface iterations, such as mock-ups and wireframes.
 - We've had numerous discussions with Paul Kuveke, Nate Geier, Agathe and other at Mintbase to confirm that Mintbase is the best solution/solutions for the next phases of our Roadmap post the initial NEAR Grant and completion of all milestones. Nate in particular helped tremendously in understand how we can best utilitize both current and upcoming feature sets to achieve our goals. We're ready to go! 
 - We have a fully functioning MVP up and live now at https://monad.social/ We have issued thousands of POAPs, hundreds of NFTs and Badges, 100+ Creators, 2k+ Subs and $250k in revenues.
+- We have a deal in place with one of the 3 major record labels with the goal of migrating their 30 Million YouTube Subs to their Monad Circle (channel) along with substantially marketing to their fans. 
 
 ## Development Roadmap :nut_and_bolt:
 
@@ -189,7 +190,7 @@ Please include here
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
-Mintbase directly as introduced by NEAR.
+Mintbase directly as introduced by NEAR and mentioned above.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
