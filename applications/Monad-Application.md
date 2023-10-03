@@ -46,6 +46,9 @@ We expect the teams to already have a solid idea about your project's expected f
 - 
 - Data models / API specifications of the core functionality
 - An overview of the technology stack to be used
+- Smart Contracts: Rust, NEAR SDK, Mintbase API
+- Front End: HTML, CSS, JavaScript
+- Back End: We are Google Cloupd for Startups Partner so all infrastrucutre on GCP with a WordPress MySQL DB.
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
 - What your project is _not_ or will _not_ provide or implement
@@ -70,23 +73,26 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
 ### Team members
 
-- Name of team leader
-- Names of team members
-
+- Brett Hawkins - CEO
+- Greg Johnson - Chief Digital Strategist
+- Jiandon Wei - CTO
+- Anvar Bagiyev - Lead Designer/UI/UX
+- 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Brett Hawkins
+- **Contact Email:** Brett@monad.social
+- **Website:** https://monad.social/
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** 920 California Ave., Suite 3, Venice, CA 90291
+- **Registered Legal Entity:** Monad.Social PBC
 
 ### Team's experience
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+
 
 If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
 
