@@ -189,7 +189,7 @@ Please include here
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** 
 Mintbase directly as introduced by NEAR and mentioned above.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
