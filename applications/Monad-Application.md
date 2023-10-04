@@ -47,7 +47,7 @@ We expect the teams to already have a solid idea about your project's expected f
 - Data models / API specifications of the core functionality
 - An overview of the technology stack to be used
 - Smart Contracts: Rust, NEAR SDK, Mintbase API
-- Front End: HTML, CSS, JavaScript
+- Front End: React, HTML, CSS, JavaScript
 - Back End: We are Google Cloupd for Startups Partner so all infrastrucutre on GCP with a WordPress MySQL DB.
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
