@@ -149,15 +149,15 @@ For each milestone,
 
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in USN, and potentially NEAR and nUSDC, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 3 Months
+- **Full-Time Equivalent (FTE):**  3 FTE (Lead Engineer + Front End Engineer + UI/UX/Design + Strategy/Marketing, 7 people)
+- **Total Costs:** $45,000
 
 ### Milestone 1 Example — Implement Mintbase Modules
 
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **FTE:**  3
+- **Costs:** 15,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -175,8 +175,8 @@ For each milestone,
 ### Milestone 2 Example — Additional features
 
 - **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **FTE:**  3
+- **Costs:** 15,000 USD
 
 ...
 ## Future Plans
