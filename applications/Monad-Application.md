@@ -11,6 +11,7 @@
 - **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
 - monadsocial.near
 - **[Level](../README.md#level_slider-levels):** 1, 2 or 3
+- This Grant request is for level 2 GJ
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -25,8 +26,11 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
+- Monad.Social is a sophisticated subscription-based live performance streaming experience with web3 and other features for creators and users to enhance the experience.
 - A brief description of your project.
+- Monad.Social allows for creators manage and monetize their own fanbase and offer a number of benefits for that fanbase, from a variety of functional NFTs to Live Streaming performance, sophisticated chat and feeds, badging, community recognition and much more. 
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
+- We have implemented a basic NFT system for POAPs, as rewards, as a tipping benefit and we have more ideas for these as well as needing to scale, make creation easier, and a number of other improvements to the NFT system and its overall integration into our experience. A core part of our goal is to make these technologies have value for the average "fan", make it very easy to engage with and use, and drive greater creator/fan engagement and satisfaction (leading to continiued subscription)
 - An indication of why your team is interested in creating this project.
 - Monad already received and completed a $75k NEAR Grant to build out all the necessary infrastructure and to launch the World's First "dance to earn app" we call the Virtual Dance Floor. We use the gyro and acclerometer in mobile devices to translate dancing movements into pulsing avatars that earn Monad Tokens. Phase II of this roadmap is integrate Mintbase in order to expand and improve the UX for both the Creators and Fans. We will implement the ability of Artist/Creators to directly upload their NFT art that will be used for sale of NFTs that purchased by fans as tips for music performance and POAPs.
 - In addition we want all these NFTs to be searchable and discoverable by regular web search. We will also impelment the ability for Fans earning Monad Tokens via the Virtual Dance Floor, and other user behaviours, to be able to spend these Monad Tokens to purchase NFTs.
