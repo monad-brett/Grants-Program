@@ -169,10 +169,11 @@ For each milestone,
 | 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 1. | Mintbase Marketplace Module | Monad will implement the Mintbase Marketplace contract to create all nft transactions on the platform. |  
-| 2. | Mintbase module: Y | We will create a Mintbase / NEAR module that will... |  
-| 3. | Mintbase module: Z | We will create a Mintbase / NEAR module that will... |  
-| 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 1. | Mintbase Marketplace Module | Migration from NEAR smart contract to Mintbase API. Monad will implement the Mintbase Marketplace contract to create all nft transactions on the platform. |  
+| 2. | Mintbase module: POAP NFTs | We will create a Mintbase / NEAR module that will... |  
+| 3. | Mintbase module: TIPPING NFTs | We will create a Mintbase / NEAR module that will... | 
+| 4. | Mintbase module: OTHER NFTs | We will create a Mintbase / NEAR module that will... | 
+| 5. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
 
 ### Milestone 2  — Build Creator NFT Front End and Minting Interaction
