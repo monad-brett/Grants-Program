@@ -214,8 +214,7 @@ For each milestone,
 
 Please include here
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- We will include Mintbase as a Official Partner with Monad as we market our platform and services to Warner Music Group record labels amongst other creates and festivals with over 50 million in total social media reach. We should discuss some specific branding examples here!  
 
 
 ## Additional Information :heavy_plus_sign:
