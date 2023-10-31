@@ -203,7 +203,7 @@ For each milestone,
 | 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
 | 1. | Mintbase module: Monad.Social NFT Marketplace | We will build monad.social NFT Marketplace based on Mintbase Simple Marketplace dApp (https://github.com/Mintbase/examples/tree/main/simple-marketplace#simple-marketplace) to Display, Trade or Sell All the Monad.Social NFTs/POAPs |  
-| 2. | Mintbase module: Monad.Social circle NFT Storefront | Each circle on Monad.Social will have its own NFT Storefront to server its Creators and Fans. Circle NFT Storefront will be created automatically when a circle is created. |  
+| 2. | Mintbase module: Monad.Social circle NFT Storefront | Each circle on Monad.Social also have its own NFT Storefront to server its Creators and Fans. Circle NFT Storefront will be created automatically when a circle is created. |  
 
 ## Future Plans
 
