@@ -172,8 +172,7 @@ For each milestone,
 | 1. | Mintbase Marketplace Module | Migration from NEAR smart contract to Mintbase API. Monad will implement the Mintbase Marketplace contract to create all nft transactions on the platform. |  
 | 2. | Mintbase module: POAP NFTs | We will create a Mintbase / NEAR module that will be implemented in Node.js and Mintbase GraphQL |  
 | 3. | Mintbase module: TIPPING NFTs | We will create a Mintbase / NEAR module that will be implemented in Node.js and Mintbase GraphQL | 
-| 4. | Mintbase module: OTHER NFTs | We will create a Mintbase / NEAR module that will be implemented in Node.js and Mintbase GraphQL | 
-| 5. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+| 4. | Mintbase module: OTHER NFTs | We will create a Mintbase / NEAR module that will be implemented in Node.js and Mintbase GraphQL |  
 
 
 ### Milestone 2  — Build Creator NFT Front End and Minting Interaction
